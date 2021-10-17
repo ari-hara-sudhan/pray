@@ -12,7 +12,7 @@ const Hero = (props) => (
           Welcome To <br />
           Tn Boy Portfolio
         </SectionTitle>
-      <a href="https://my-web-fcbeb.web.app/"><Button onClick={props.handleClick}>Learn More</Button></a>
+      <a href="https://ahs-sudhan.vercel.app/"><Button onClick={props.handleClick}>Learn More</Button></a>
 
       </LeftSection>
     </Section>
